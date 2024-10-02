@@ -28,6 +28,7 @@ Source Station
 Destination Station
 Coach Type (AC, SL, Unreserved)**
 **Example Output:**
+
 Welcome to Indian Railways
 
 Ticket booked for Anurag 25M in Train no 1101 from Mumbai to Delhi.
