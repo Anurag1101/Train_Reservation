@@ -13,6 +13,7 @@ This Python-based Train Reservation System allows users to simulate booking trai
 ## How to Use
 **Clone the repository**:
 git clone https://github.com/Anurag1101/Train_Reservation.git
+
 Navigate to the project directory:
 cd Train_Reservation
 
@@ -20,13 +21,21 @@ cd Train_Reservation
 python train_reservation.py
 
 **User Inputs:** The program will prompt you to enter the following information:
+
 **Train Number
+
 Passenger Name
+
 Passenger Age
+
 Passenger Gender (M/F)
+
 Source Station
+
 Destination Station
+
 Coach Type (AC, SL, Unreserved)**
+
 **Example Output:**
 
 Welcome to Indian Railways
