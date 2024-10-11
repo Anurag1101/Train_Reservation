@@ -22,13 +22,13 @@ python train_reservation.py
 
 **User Inputs:** The program will prompt you to enter the following information:
 
-  Train Number
-  Passenger Name
-  Passenger Age
-  Passenger Gender (M/F)
-  Source Station
-  Destination Station
-  Coach Type (AC, SL, Unreserved)**
+    Train Number
+    Passenger Name
+    Passenger Age
+    Passenger Gender (M/F)
+    Source Station
+    Destination Station
+    Coach Type (AC, SL, Unreserved)**
 
 **Example Output:**
 
