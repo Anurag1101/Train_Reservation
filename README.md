@@ -39,12 +39,12 @@ python train_reservation.py
   Indian Railway wishes you a Happy and Safe journey.
 
 **Code Structure**:
-  
-  **Train Class** : This class represents a train ticket booking system.
-  __init__: Initializes passenger details (train number, name, age, gender, etc.).
-  **book()**: Books a ticket for the passenger.
-  **berth_and_fare()**: Assigns a random berth, coach number, and calculates the fare.
-  **greet() & greet1()**: Static methods to display welcome and farewell messages.
+
+    **Train Class** : This class represents a train ticket booking system.
+    __init__: Initializes passenger details (train number, name, age, gender, etc.).
+    **book()**: Books a ticket for the passenger.
+    **berth_and_fare()**: Assigns a random berth, coach number, and calculates the fare.
+    **greet() & greet1()**: Static methods to display welcome and farewell messages.
 
 **Future Enhancements**:
 Implement an actual fare calculator based on distance.
