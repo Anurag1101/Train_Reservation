@@ -41,23 +41,35 @@ python train_reservation.py
 **Code Structure**:
 
     **Train Class** : This class represents a train ticket booking system.
+    
     __init__: Initializes passenger details (train number, name, age, gender, etc.).
+    
     **book()**: Books a ticket for the passenger.
+    
     **berth_and_fare()**: Assigns a random berth, coach number, and calculates the fare.
+    
     **greet() & greet1()**: Static methods to display welcome and farewell messages.
 
 **Future Enhancements**:
+
 Implement an actual fare calculator based on distance.
+
 Add more details such as seat preferences (Window, Middle, Aisle).
+
 Include error handling for invalid inputs.
+
 Improve the user interface with a graphical or web-based version.
 
 **Requirements:**
+
 Python 3.x
+
 random module (standard library)
 
 **License**:
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 **Author**:
+
 **Anurag Tiwari**
