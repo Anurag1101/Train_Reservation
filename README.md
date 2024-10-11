@@ -22,39 +22,29 @@ python train_reservation.py
 
 **User Inputs:** The program will prompt you to enter the following information:
 
-**Train Number
-
-Passenger Name
-
-Passenger Age
-
-Passenger Gender (M/F)
-
-Source Station
-
-Destination Station
-
-Coach Type (AC, SL, Unreserved)**
+  Train Number
+  Passenger Name
+  Passenger Age
+  Passenger Gender (M/F)
+  Source Station
+  Destination Station
+  Coach Type (AC, SL, Unreserved)**
 
 **Example Output:**
 
-Welcome to Indian Railways
-
-Ticket booked for Anurag 25M in Train no 1101 from Mumbai to Delhi.
-
-Your berth no is 42 and Coach no is A3.
-
-The fare of your journey is ₹1500.
-
-Indian Railway wishes you a Happy and Safe journey.
+  Welcome to Indian Railways
+  Ticket booked for Anurag 25M in Train no 1101 from Mumbai to Delhi.
+  Your berth no is 42 and Coach no is A3.
+  The fare of your journey is ₹1500.
+  Indian Railway wishes you a Happy and Safe journey.
 
 **Code Structure**:
-
-**Train Class** : This class represents a train ticket booking system.
-__init__: Initializes passenger details (train number, name, age, gender, etc.).
-**book()**: Books a ticket for the passenger.
-**berth_and_fare()**: Assigns a random berth, coach number, and calculates the fare.
-**greet() & greet1()**: Static methods to display welcome and farewell messages.
+  
+  **Train Class** : This class represents a train ticket booking system.
+  __init__: Initializes passenger details (train number, name, age, gender, etc.).
+  **book()**: Books a ticket for the passenger.
+  **berth_and_fare()**: Assigns a random berth, coach number, and calculates the fare.
+  **greet() & greet1()**: Static methods to display welcome and farewell messages.
 
 **Future Enhancements**:
 Implement an actual fare calculator based on distance.
