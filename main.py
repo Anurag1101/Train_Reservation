@@ -39,7 +39,7 @@ age=int(input("Enter the age of Passenger: "))
 gender = input("Enter the gender in M or F: ")
 source=input("Enter the Source Station: ")
 dest = input("Enter the Destination Station: ")
-typee = input("Enter the type of coach you want: ")
+typee = input("Enter the type of Coach you want: ")
 
 passenger = Train(train_no,namee,age,gender,typee,source,dest,)
 passenger.greet()
