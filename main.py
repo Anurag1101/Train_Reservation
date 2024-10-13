@@ -33,7 +33,7 @@ class Train:
         print("Indian Railway wishes You a Happy and Safe journey\n")
     
 
-train_no = int(input("Enter the train no: "))
+train_no = int(input("Enter the Train no: "))
 namee=input("Enter the name of passenger: ")
 age=int(input("Enter the age of passenger: "))
 gender = input("Enter the gender in M or F: ")
