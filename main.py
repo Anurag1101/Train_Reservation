@@ -30,7 +30,7 @@ class Train:
 
     @staticmethod
     def greet1():
-        print("Indian Railway wishes you a Happy and Safe journey\n")
+        print("Indian Railway wishes You a Happy and Safe journey\n")
     
 
 train_no = int(input("Enter the train no: "))
