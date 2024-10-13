@@ -34,7 +34,7 @@ class Train:
     
 
 train_no = int(input("Enter the Train no: "))
-namee=input("Enter the name of passenger: ")
+namee=input("Enter the name of Passenger: ")
 age=int(input("Enter the age of passenger: "))
 gender = input("Enter the gender in M or F: ")
 source=input("Enter the source station: ")
